@@ -1,0 +1,9 @@
+Package: jp.r-plus.applistfixer
+Name: AppListFixer
+Depends: mobilesubstrate, applist, firmware (>= 13.0)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Fix crash large size of icon image via AppList
+Maintainer: r_plus
+Author: r_plus
+Section: Tweaks
